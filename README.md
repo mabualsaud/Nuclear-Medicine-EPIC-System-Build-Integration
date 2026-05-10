@@ -1,6 +1,8 @@
 
+
 # Nuclear-Medicine-EPIC-System-Build-Integration @ JHAH
-## Technical Program Leader for the end-to-end EPIC transformation at Johns Hopkins Aramco Healthcare (JHAH).  
+## Technical Program Leader for the end-to-end EPIC transformation at Johns Hopkins Aramco Healthcare (JHAH).
+<img width="1536" height="1024" alt="JHAH Repository" src="https://github.com/user-attachments/assets/2ea128e5-56cf-447e-a7bf-e5500e5f2247" />
 <img width="1536" height="1024" alt="dea802d2-17cc-4471-ab11-a5c610e5b8c7" src="https://github.com/user-attachments/assets/48fafaa4-8b13-4b2f-91ec-181c0b0c513a" />
 <img width="1024" height="1536" alt="b2abe2c4-66ee-4059-a6c6-6dfc7f7a1084" src="https://github.com/user-attachments/assets/77295734-9f38-43db-8cee-cff127700e52" />
 <img width="1024" height="290" alt="IMG_2847" src="https://github.com/user-attachments/assets/1abcf331-141e-43ff-8ac1-bb5fcd09db7b" />
