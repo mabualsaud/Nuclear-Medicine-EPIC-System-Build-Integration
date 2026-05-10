@@ -10,7 +10,7 @@
 <img width="1536" height="1024" alt="D6AEE0ED-D3FD-4CDF-906D-C7B0A88B98E3" src="https://github.com/user-attachments/assets/96dfb4dc-c647-4597-b5c8-33ccd72a4203" />
 
 ## 🚀 Project Overview
-## Led a 14-year mission-critical transformation (2005-2019), governing the design, logic foundations, and go-live readiness of the EPIC Nuclear Medicine system. The project focused on translating complex clinical operations into scalable system architecture.  
+# Led a 14-year mission-critical transformation (2005-2019), governing the design, logic foundations, and go-live readiness of the EPIC Nuclear Medicine system. The project focused on translating complex clinical operations into scalable system architecture.  
 
 ## 🛠️ Key Technical Achievements
 • System Logic Transformation: Managed the complex transition from single-visit procedures in legacy systems to multi-visit procedure structures in EPIC.  
