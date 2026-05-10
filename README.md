@@ -1,5 +1,5 @@
 # Nuclear-Medicine-EPIC-System-Build-Integration @ JHAH
-##Technical Program Leader for the end-to-end EPIC transformation at Johns Hopkins Aramco Healthcare (JHAH).  
+## Technical Program Leader for the end-to-end EPIC transformation at Johns Hopkins Aramco Healthcare (JHAH).  
 
 ## 🚀 Project Overview
 Led a 14-year mission-critical transformation (2005-2019), governing the design, logic foundations, and go-live readiness of the EPIC Nuclear Medicine system. The project focused on translating complex clinical operations into scalable system architecture.  
