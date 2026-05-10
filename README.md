@@ -1,12 +1,11 @@
 # Nuclear-Medicine-EPIC-System-Build-Integration @ JHAH
 ## Technical Program Leader for the end-to-end EPIC transformation at Johns Hopkins Aramco Healthcare (JHAH).  
-![Uploading D6AEE0ED-D3FD-4CDF-906D-C7B0A88B98E3.png…]()
-<img width="1024" height="1536" alt="640ab26a-7100-477f-aba8-980daef090c2" src="https://github.com/user-attachments/assets/8a8ea56e-ee4c-4f1a-ada8-356f02632acc" />
-<img width="1536" height="1024" alt="491bb796-baea-411e-871d-5eff569194e1" src="https://github.com/user-attachments/assets/e2de5d8f-13a2-470a-b055-108b56e19768" />
-<img width="1024" height="290" alt="IMG_2847" src="https://github.com/user-attachments/assets/928b53ee-8104-42e6-a527-ad4223c58f00" />
-<img width="1024" height="1536" alt="b2abe2c4-66ee-4059-a6c6-6dfc7f7a1084" src="https://github.com/user-attachments/assets/e911848f-bb34-48eb-a723-22d689b47db6" />
-<img width="1536" height="1024" alt="dea802d2-17cc-4471-ab11-a5c610e5b8c7" src="https://github.com/user-attachments/assets/2fb122cf-edd5-4d48-94b8-577eb63854a2" />
-<img width="1536" height="1024" alt="JHAH Repository" src="https://github.com/user-attachments/assets/8b31126d-4f07-4c4c-b239-47c860b8d64d" />
+![Uploading JHAH Repository.png…]()
+<img width="1536" height="1024" alt="dea802d2-17cc-4471-ab11-a5c610e5b8c7" src="https://github.com/user-attachments/assets/48fafaa4-8b13-4b2f-91ec-181c0b0c513a" />
+<img width="1024" height="1536" alt="b2abe2c4-66ee-4059-a6c6-6dfc7f7a1084" src="https://github.com/user-attachments/assets/77295734-9f38-43db-8cee-cff127700e52" />
+<img width="1024" height="290" alt="IMG_2847" src="https://github.com/user-attachments/assets/1abcf331-141e-43ff-8ac1-bb5fcd09db7b" />
+<img width="1536" height="1024" alt="491bb796-baea-411e-871d-5eff569194e1" src="https://github.com/user-attachments/assets/dce284a5-d15f-45fc-9c53-d5ce94a4bcea" />
+<img width="1536" height="1024" alt="D6AEE0ED-D3FD-4CDF-906D-C7B0A88B98E3" src="https://github.com/user-attachments/assets/96dfb4dc-c647-4597-b5c8-33ccd72a4203" />
 
 ## 🚀 Project Overview
 Led a 14-year mission-critical transformation (2005-2019), governing the design, logic foundations, and go-live readiness of the EPIC Nuclear Medicine system. The project focused on translating complex clinical operations into scalable system architecture.  
