@@ -27,3 +27,5 @@
 
 ### https://www.linkedin.com/posts/mai-abu-al-saud-msc-software-engineering-pmp-kfupm-pm-tricks-139b79283_%F0%9D%97%98%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%80%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-ugcPost-7420883843525730305-HxMZ?utm_source=share&utm_medium=member_ios&rcm=ACoAAEUM6H0BOO1G_Lt2kQ8QGAM-ug4UC0ipfOM
 
+# EPIC Project Webpage build by using HTML, CSS, JS :[EPIC transformation Workflow] https://mabualsaud.github.io/Nuclear-Medicine-EPIC-System-Build-Integration/
+
