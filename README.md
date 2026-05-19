@@ -2,7 +2,7 @@
 
 # Nuclear-Medicine-EPIC-System-Build-Integration @ JHAH
 
-# EPIC Project Webpage build by using HTML, CSS, JS :[EPIC transformation Workflow] https://mabualsaud.github.io/Nuclear-Medicine-EPIC-System-Build-Integration/
+## EPIC Project Webpage build by using HTML, CSS, JS :[EPIC transformation Workflow] https://mabualsaud.github.io/Nuclear-Medicine-EPIC-System-Build-Integration/
 
 # Technical Program Leader for the end-to-end EPIC transformation at Johns Hopkins Aramco Healthcare (JHAH).
 <img width="1536" height="1024" alt="JHAH Repository" src="https://github.com/user-attachments/assets/2ea128e5-56cf-447e-a7bf-e5500e5f2247" />
